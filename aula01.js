@@ -98,7 +98,6 @@ const exibeNomeNota = (nomeDoAluno) => {
 }}
 console.log(exibeNomeNota("Naman"));
 
-
 alunos.forEach(nome => {
     console.log(nome)
 })
